@@ -1,0 +1,70 @@
+ Filière 1 : Ingénierie et Exploitation des Équipements
+- Etablissement : ISMA Benin
+- Filière : Ingénierie et Exploitation des Équipements
+- Mode d'entrée : Baccalauréat pour la première année de licence professionnelle, Baccalauréat + 3 ou équivalent pour le master professionnel
+- BAC recommandé : Non spécifié
+- Matières : Transmission des signaux, techniques numériques, synchronisation audio et vidéo, codage et décodage de l'information, mise en œuvre des appareils audiovisuels.
+- Métiers/Débouchés :
+  - Responsable de diffusion
+  - Technicien duplication
+  - Technicien d’exploitation de régie finale
+  - Technicien d’ingénierie
+  - Technicien de studio
+  - Technicien de maintenance
+
+ Filière 2 : Journalisme Audiovisuel
+- Etablissement : ISMA Benin
+- Filière : Journalisme Audiovisuel
+- Mode d'entrée : Baccalauréat pour la première année de licence professionnelle, Baccalauréat + 3 ou équivalent pour le master professionnel
+- BAC recommandé : Non spécifié
+- Matières : Techniques de tournage, montage, mixage, investigation, création de contenus audiovisuels.
+- Métiers/Débouchés :
+  - Journaliste Reporter d’Images (JRI)
+  - Journaliste Web
+  - Journaliste Radio
+  - Rédacteur en chef
+
+ Filière 3 : Montage et Postproduction
+- Etablissement : ISMA Benin
+- Filière : Montage et Postproduction
+- Mode d'entrée : Baccalauréat pour la première année de licence professionnelle, Baccalauréat + 3 ou équivalent pour le master professionnel
+- BAC recommandé : Non spécifié
+- Matières : Technologies de montage numérique, coordination mixage, bruitage, illustration musicale.
+- Métiers/Débouchés :
+  - Monteur
+  - Truquiste
+
+ Filière 4 : Réalisation Cinéma et Télévision
+- Etablissement : ISMA Benin
+- Filière : Réalisation Cinéma et Télévision
+- Mode d'entrée : Baccalauréat pour la première année de licence professionnelle, Baccalauréat + 3 ou équivalent pour le master professionnel
+- BAC recommandé : Non spécifié
+- Matières : Direction de projet audiovisuel, gestion de production, coordination d'équipes artistiques et techniques.
+- Métiers/Débouchés :
+  - Réalisateur cinéma
+  - Réalisateur télé
+  - Assistant réalisateur
+  - Scénariste
+  - Scripte
+
+Filière 5 : Métiers de l’image
+- Etablissement : ISMA Benin
+- Filière : Métiers de l’image
+- Mode d'entrée : Baccalauréat pour la première année de licence professionnelle, Baccalauréat + 3 ou équivalent pour le master professionnel
+- BAC recommandé : Non spécifié
+- Matières : Prise de vue, éclairage, techniques audiovisuelles.
+- Métiers/Débouchés :
+  - Directeur de la photographie
+  - Cadreur
+  - Ingénieur vision
+
+Filière 6 : Gestion de la Production
+- Etablissement : ISMA Benin
+- Filière : Gestion de la Production
+- Mode d'entrée : Baccalauréat pour la première année de licence professionnelle, Baccalauréat + 3 ou équivalent pour le master professionnel
+- BAC recommandé : Non spécifié
+- Matières : Gestion budgétaire, organisation de production audiovisuelle.
+- Métiers/Débouchés :
+  - Producteur
+  - Régisseur général
+  - Assistant de production
